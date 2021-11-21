@@ -1,4 +1,4 @@
-# HOW LMAO WTF!???
+# YES LMAO IM DOING IT
 
 1. 😐
-2. 3.
+2.😎 3.
