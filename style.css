@@ -36,7 +36,7 @@ header:after {
 .backfail {
   position: absolute;
   bottom: -100px;
-  width: 2000px;
+  width: 2500px;
   right: 0;
   z-index: 1;
 }
