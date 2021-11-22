@@ -33,6 +33,13 @@ header:after {
   background-color: rgba(0, 0, 0, 0.05);
   z-index: 25;
 }
+.backfail {
+  position: absolute;
+  bottom: -100px;
+  width: 1500px;
+  right: 0;
+  z-index: 1;
+}
 
 .mountain1 {
   position: absolute;
@@ -71,6 +78,7 @@ header:after {
   width: 2100px;
   bottom: 250px;
   right: 0;
+  z-index: 2;
 }
 
 nav {
