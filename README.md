@@ -1,4 +1,4 @@
-# YES LMAO IM DOING IT
+# THE W: W EDITION
 
 1. 😐
 2.😎 3.
