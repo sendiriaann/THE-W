@@ -1,4 +1,4 @@
-# HOW LMAO WTF!???
+I'LL FIGURE IT OUT, EVENTUALLY
 
-1. 😐
+1. 😏
 2. 3.
