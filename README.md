@@ -1,4 +1,4 @@
-I'LL FIGURE IT OUT, EVENTUALLY
+# THE W: W EDITION
 
-1. 😏
-2. 3.
+1. 😐
+2.😎 3.
