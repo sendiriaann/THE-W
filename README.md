@@ -1,4 +1,3 @@
-# THE W: W EDITION
+# THE W: OLD & DECREPIT EDITION
 
-1. 😐
-2.😎 3.
+1. 🧓
