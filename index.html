@@ -36,9 +36,11 @@
       <h1 class="title" id="titout" style="-webkit-text-stroke: 2px;-webkit-text-stroke-color: #ffffff;color: #ffffff00;""">
         WHEEZEROID
       </h1>
-      <p style="position: fixed;mix-blend-mode: difference;color: rgba(255, 255, 255, 0);z-index: 50;bottom: 0px;" class="scroll-length">aaaaaaa</p>
+      <p style="position: fixed;mix-blend-mode: difference;color: rgba(255, 255, 255, 0);z-index: 50;bottom: 20px;" class="scroll-length">aaaaaaa</p>
+      <p style="position: fixed;mix-blend-mode: difference;color: rgba(255, 255, 255, 0);z-index: 50;bottom: 0px;" class="scroll-length2">aaaaaaa</p>
+      <p style="position: fixed;mix-blend-mode: difference;color: rgba(255, 255, 255, 0);z-index: 50;bottom: 80px;" >Normal Scroll Position: <span id="scrollValue">0</span> px</p>
+      <p style="position: fixed;mix-blend-mode: difference;color: rgba(255, 255, 255, 0);z-index: 50;bottom: 60px;" >Sequence1 Image Index: Frame <span id="imageIndex">0</span></p>
       <p style="position: fixed;mix-blend-mode: difference;color: rgba(255, 255, 255, 0);z-index: 25;bottom: 100px;padding: 20px; text-align: center;">these things over 'ere drive the many scripts on this page, so deleting em is not an option, or maybe i just could'nt be bothered to find a better solution. ya see, i could try findin a clever way to hide these lil gizmos... OR i'll just set transparency and hope that no one'll notice. i uh... clearly failed on that last one so... yea... how's ur mum doin? </p>
-      <p style="position: fixed;mix-blend-mode: difference;color: rgba(255, 255, 255, 0);z-index: 50;bottom: 50px;" class="scroll-length2">aaaaaaa</p>
       <img src="imagus/scroll-down-mouse.webp" style="z-index: -1; mix-blend-mode: difference;position: fixed; bottom: -200px; scale: .2;">
       <!-- <img src="imagus/whez/whez_1.png" id="scrollwhez" style="position: fixed;z-index: 100;"> -->
     </div>
@@ -52,7 +54,8 @@
       </div>
       <div class="containerwithin containerwithinwhez">
         <div class="containermid" id="mid2">
-          <img src="imagus/whez/whez_1.png" id="scrollwhez" style="position: absolute;box-sizing: border-box;max-width: 50%; scale: 2;">
+          <!-- <img src="imagus/whez/whez_1.png" id="scrollwhez" style="position: absolute;box-sizing: border-box;max-width: 50%; scale: 2;"> -->
+           <div class="image-container" id="imageContainer" style="position: absolute;box-sizing: border-box;max-width: 100%; scale: 2;"></div>
         </div>
       </div>
     </div>
@@ -162,6 +165,7 @@
 
     <script src="scroll.js"></script>
     <script src="scroll2.js"></script>
+    <script src="scrollNeo.js"></script>
     <script src="translate.js"></script>
     <script src="txtCrawler.js"></script>
     <script src="switcheroo.js"></script>

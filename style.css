@@ -18,6 +18,30 @@
   font-size: clamp(0.8rem, 1vw, 1rem);
 }
 
+body {
+  height: 10000px;
+  margin: 0;
+}
+
+.image-container {
+  outline: 1px solid rgba(255, 0, 0, 0);
+  width: 512px;
+  height: 512px;
+  position: fixed;
+  top: 0;
+  left: center;
+}
+
+.image-container img {
+  outline: 1px solid rgba(255, 0, 0, 0);
+  width: 512px;
+  height: 512px;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
 .containermid {
   width: 100%;
   height: 100vh;
