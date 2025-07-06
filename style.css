@@ -23,23 +23,28 @@ body {
   margin: 0;
 }
 
-.image-container {
+.image-containers {
   outline: 1px solid rgba(255, 0, 0, 0);
-  width: 512px;
-  height: 512px;
+  width: 30vw;
+  height: 30vw;
   position: fixed;
   top: 0;
   left: center;
 }
-
-.image-container img {
+.image-containers img {
   outline: 1px solid rgba(255, 0, 0, 0);
-  width: 512px;
-  height: 512px;
+  width: 30vw;
+  height: 30vw;
   display: block;
   position: absolute;
   top: 0;
   left: 0;
+}
+.counters {
+  position: fixed;
+  mix-blend-mode: difference;
+  color: rgba(255, 0, 0, 0);
+  z-index: 50;bottom:
 }
 
 .containermid {
