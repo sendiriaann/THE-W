@@ -17,6 +17,6 @@ document.addEventListener("DOMContentLoaded", function() {
   });
   
 
-// window.onload = function() {
-//     document.getElementById("myAudio").play();
-// }
+window.onload = function() {
+    document.getElementById("myAudio").play();
+}
